@@ -1,0 +1,66 @@
+{
+  "EntityManagementValueList": [
+    {
+      "Name": "Entities\\Player1",
+      "SelectedProperties": [],
+      "InstanceManagementValuesList": [
+        {
+          "SelectedProperties": [],
+          "Name": "SpriteInstance"
+        },
+        {
+          "SelectedProperties": [],
+          "Name": "AxisAlignedRectangleInstance"
+        }
+      ]
+    },
+    {
+      "Name": "Entities\\PongBall",
+      "SelectedProperties": [],
+      "InstanceManagementValuesList": [
+        {
+          "SelectedProperties": [],
+          "Name": "SpriteInstance"
+        },
+        {
+          "SelectedProperties": [],
+          "Name": "AxisAlignedRectangleInstance"
+        }
+      ]
+    },
+    {
+      "Name": "Entities\\HUD2",
+      "SelectedProperties": [],
+      "InstanceManagementValuesList": [
+        {
+          "SelectedProperties": [],
+          "Name": "TextInstance"
+        }
+      ]
+    },
+    {
+      "Name": "Entities\\Player2",
+      "SelectedProperties": [],
+      "InstanceManagementValuesList": [
+        {
+          "SelectedProperties": [],
+          "Name": "SpriteInstance"
+        },
+        {
+          "SelectedProperties": [],
+          "Name": "AxisAlignedRectangleInstance"
+        }
+      ]
+    },
+    {
+      "Name": "Entities\\HUD",
+      "SelectedProperties": [],
+      "InstanceManagementValuesList": [
+        {
+          "SelectedProperties": [],
+          "Name": "TextInstance"
+        }
+      ]
+    }
+  ]
+}
